@@ -1,5 +1,6 @@
 # pratikum-4
 Input Program dan Penilaian Nilai Mahasiswa
+
 #Meminta input data secara berulang (menggunakan perulangan).
 
 Menambahkan data yang diinput ke dalam struktur data (list).
