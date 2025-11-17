@@ -1,7 +1,5 @@
 # pratikum-4
 Input Program dan Penilaian Nilai Mahasiswa
-Program ini dirancang untuk memasukkan data siswa ke dalam sebuah daftar secara berulang dan menghitung Nilai Akhir berdasarkan bobot yang telah ditentukan
-
 #Meminta input data secara berulang (menggunakan perulangan).
 
 Menambahkan data yang diinput ke dalam struktur data (list).
